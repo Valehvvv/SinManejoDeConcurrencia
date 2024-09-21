@@ -6,7 +6,7 @@ public class Main {
 
     // Configuración de la base de datos
     private static final String URL = "jdbc:mysql://localhost:3306/tienda_online";
-    private static final String USER = "root"; // Cambia esto según tu configuración
+    private static final String USER = "root";
     private static final String PASSWORD = "tuconstraseña"; // Cambia esto según tu configuración
 
     public static void main(String[] args) {
